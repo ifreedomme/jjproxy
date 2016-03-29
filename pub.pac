@@ -2582,7 +2582,7 @@ var domains = {
   "duckduckgo.com": 1
 };
 
-var proxy = "PROXY 106.185.41.197:21;";
+var proxy = "PROXY stos.ml:25;";
 
 var direct = 'DIRECT;';
 
